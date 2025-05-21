@@ -1,6 +1,6 @@
 FROM python:3.6-alpine
 
-MAINTAINER jhao104 <j_hao104@163.com>
+MAINTAINER shitou <1043083945@qq.com>
 
 WORKDIR /app
 
